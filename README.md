@@ -1,4 +1,4 @@
-# Retail Analytics Pipeline with Snowflake, Python, and Power BI
+# 🚀 Retail Analytics Pipeline using Snowflake, Python & Power BI
 
 This project demonstrates an end-to-end retail analytics pipeline, showcasing the integration of Snowflake, Python, and Power BI to process, analyze, and visualize retail data. The goal of this project is to provide a scalable and efficient workflow for handling large datasets, performing data cleaning and exploratory data analysis (EDA), and generating business insights through an interactive dashboard.
 
